@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background: #605a5a;
+}
+
+/* UNIVERSAL CODE */
+
+p {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+h2 {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+
+.secundpage {
+    text-align: center;
+}
+
+/* VIDEO QISMI */
+
+
+.firstvideo {
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.secundvideo {
+
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* NAV QISMI */
+
+.nav {
+    background: #ffffff;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(0, 242, 242, 1) 49%, rgba(255, 255, 255, 1) 100%);
+
+    width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.titleone {
+    color: black;
+    background-color: #fffbfb;
+    border-radius: 8px 8px 0px 0px;
+
+}
+
+.textone {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 15px;
+    border: 4px solid rgb(0, 0, 0);
+    background: #121212;
+    background: linear-gradient(90deg, rgba(18, 18, 18, 1) 0%, rgba(69, 67, 67, 1) 50%, rgba(18, 18, 18, 1) 100%);
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+/* VIDEO PAGE */
+
+
+.video {
+    background-color: rgb(255, 255, 255);
+    width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.titletwo {
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+    border-radius: 5px 5px 0px 0px;
+
+}
+
+
+/* MAPS QISMI */
+
+.firstmaps {
+    border: 10px solid black;
+    border-radius: 25px;
+}
+
+
+.secundimg {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
